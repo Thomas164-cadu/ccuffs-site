@@ -1,0 +1,61 @@
+body{
+    background-color: #565656 ;
+    font-family: Roboto,Helvetica Neue, Arial, Noto Sans,sans-serif;
+    color: white;
+}
+.infos{
+    margin-left: 8%;
+}
+.toppage{
+    text-align: center;
+    background-image: url(cc-logo-bg-transparent.png);
+    background-size: 20%;
+    background-repeat:no-repeat;
+}
+a.links{
+    transition: .3s;
+    background-color: white;
+    border: solid white 2px;
+    border-radius: 4px;
+    text-decoration: none;
+    color:black;
+    font-size: 17px;
+    font-family: Roboto,Helvetica Neue, Arial, Noto Sans,sans-serif;
+    margin-top: 70px;
+    padding:5px;
+}
+a.links:hover{
+    background-color:#565656;
+    border: solid white 2px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    padding: 5px;
+}
+h1{
+    font-size: 40px;
+    font-weight: 400;
+}
+h3{
+    font-size: 30px;
+    font-weight: 400;
+
+}
+h5{
+    font-size: 23px;
+    font-weight: 400;
+    margin-left: 3%;
+}
+h6{
+    font-size: 18px;
+    margin-left: 3%;
+    margin-top: 60px;
+}
+p{
+    margin-left: 5%;
+}    
+img{
+    border: solid white 5px;
+    border-radius: 100%;
+}
